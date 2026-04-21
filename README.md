@@ -33,7 +33,7 @@ Star schema with 6 tables:
 ## Data Generation
 Synthetic dataset generated using Python. Run the Jupyter notebook to recreate all CSVs:
 
-```bash
+```
 jupyter notebook generate_data.ipynb
 ```
 
